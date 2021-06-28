@@ -17,6 +17,7 @@ public class FlipkartScript {
 		String productName = "winter heater";
 		String pincode = "110063";
 		String addToCart_xpath = "//button[normalize-space()='ADD TO CART']";
+		//Pre Req- Change chromdriver.exe file location acc to your local specified location
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Vanshul Suneja\\Chrome\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.flipkart.com");
