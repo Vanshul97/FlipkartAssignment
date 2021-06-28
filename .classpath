@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Selenium jar Files/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Selenium jar Files/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Selenium jar Files/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Selenium jar Files/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Selenium jar Files/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Selenium jar Files/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Selenium jar Files/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Testng jar Files/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Testng jar Files/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Testng jar Files/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Testng jar Files/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Testng jar Files/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Testng jar Files/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Testng jar Files/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vanshul Suneja/OneDrive - RxLogix/Desktop/Selenium/Testng jar Files/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
